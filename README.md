@@ -10,6 +10,7 @@ This is a simple program that uses Telegram Bot API to receive text messages fro
 - Git
 - Pandas (to manage .csv files)
 - Telepot
+- A .csv file containing a list of books (Title, Author, etc...)
 ```
 sudo apt install python3.8 python3-pip git python3-pandas
 pip3 install pandas telepot
